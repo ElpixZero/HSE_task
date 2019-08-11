@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/HSE_task/static/css/main.09acc11e.chunk.css",
+    "main.js": "/HSE_task/static/js/main.11f23e2d.chunk.js",
+    "main.js.map": "/HSE_task/static/js/main.11f23e2d.chunk.js.map",
+    "runtime~main.js": "/HSE_task/static/js/runtime~main.61134393.js",
+    "runtime~main.js.map": "/HSE_task/static/js/runtime~main.61134393.js.map",
+    "static/css/2.3887df95.chunk.css": "/HSE_task/static/css/2.3887df95.chunk.css",
+    "static/js/2.d951a03a.chunk.js": "/HSE_task/static/js/2.d951a03a.chunk.js",
+    "static/js/2.d951a03a.chunk.js.map": "/HSE_task/static/js/2.d951a03a.chunk.js.map",
+    "index.html": "/HSE_task/index.html",
+    "precache-manifest.732f44d18384471afdaeb7e5231b250a.js": "/HSE_task/precache-manifest.732f44d18384471afdaeb7e5231b250a.js",
+    "service-worker.js": "/HSE_task/service-worker.js",
+    "static/css/2.3887df95.chunk.css.map": "/HSE_task/static/css/2.3887df95.chunk.css.map",
+    "static/css/main.09acc11e.chunk.css.map": "/HSE_task/static/css/main.09acc11e.chunk.css.map",
+    "static/media/semantic.min.css": "/HSE_task/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
